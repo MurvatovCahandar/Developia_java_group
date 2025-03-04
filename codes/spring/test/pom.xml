@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>az.developia</groupId>
-	<artifactId>spring_test_project</artifactId>
+	<artifactId>test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_test_project</name>
+	<name>test</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

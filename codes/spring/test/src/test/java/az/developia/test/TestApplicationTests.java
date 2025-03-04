@@ -1,10 +1,10 @@
-package az.developia.spring_test_project;
+package az.developia.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringTestProjectApplicationTests {
+class TestApplicationTests {
 
 	@Test
 	void contextLoads() {

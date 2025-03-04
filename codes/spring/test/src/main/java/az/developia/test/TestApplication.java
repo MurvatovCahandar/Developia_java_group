@@ -1,13 +1,13 @@
-package az.developia.spring_test_project;
+package az.developia.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringTestProjectApplication {
+public class TestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringTestProjectApplication.class, args);
+		SpringApplication.run(TestApplication.class, args);
 	}
 
 }
